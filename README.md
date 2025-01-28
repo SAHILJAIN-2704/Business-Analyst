@@ -1,8 +1,27 @@
 AdventureWorks Dashboard Project
-This repository showcases a dashboard created using the AdventureWorks database and Microsoft Excel. The project demonstrates data analysis and visualization techniques to derive meaningful insights from a fictional retail company's data.
+This repository showcases a dashboard created using the AdventureWorks database and Excel,Powerbi,Tabaleau and SQL. The project demonstrates data analysis and visualization techniques to derive meaningful insights from a fictional retail company's data.
 
 🚀 Project Overview
 AdventureWorks is a sample database provided by Microsoft, representing a retail company selling bicycles and related products. In this project, the database was used to create an interactive dashboard in Excel to analyze key business metrics and provide actionable insights.
+
+Key Features
+1. Excel Dashboard:
+Interactive dashboard with pivot tables and slicers.
+Insights into sales trends, product performance, and regional analysis.
+
+2. Power BI Dashboard:
+Dynamic visuals and drill-through capabilities.
+KPIs for revenue, profit, and sales growth.
+Advanced DAX measures for data modeling.
+
+3. SQL Queries:
+Data extraction, transformation, and preparation.
+Complex joins and aggregations to derive actionable insights.
+
+4. Tableau Visualizations:
+Storytelling dashboards with filters and actions.
+Geographic analysis of regional sales performance.
+
 
  Key Metrics Uncovered:
 💰 Total Sales: $29.36M
