@@ -55,3 +55,25 @@ I welcome suggestions, feedback, and collaboration opportunities. If you have an
 🌐 Connect With Me
 LinkedIn: www.linkedin.com/in/sahil-jain-0a8726251
 Email:sahiljain2704@gmail.com
+
+## 📁 Repository Structure
+
+The repository is organized into the following folders:
+
+### Dashboards/
+Contains all dashboard and visualization files created using various BI tools:
+- `Adventure Works Dashboard.xlsx` - Excel dashboard with pivot tables and slicers
+- `HR DATA DASHBOARD.xlsx` - Excel-based HR analytics dashboard
+- `sales dashboard.pbix` - Power BI interactive dashboard
+- `Tableau-sales dashboard1.1.pdf` - Tableau visualization export
+
+### Certificates/
+Contains all certificates, credentials, and achievements:
+- `AI variant internship certificate.pdf` - AI-focused internship certification
+- `Hackathon certificate.pdf` - Hackathon participation certificate
+- `data analyst completion certificate.pdf` - Data analyst program certification
+- `gharaaj internship certificate.jpg` - Internship credential
+- `acmegrade.jpg` - Achievement certificate
+
+### Root Level Files
+- `README.md` - Project documentation and overview
